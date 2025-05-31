@@ -11,10 +11,6 @@
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Bluu Cloud Reviews</h3>
 </div>
-<!-- TODO: Make a short description -->
-<div align="center">
-  Short Description. (Optional)
-</div>
 
 <br />
 
