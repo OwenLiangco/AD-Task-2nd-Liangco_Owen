@@ -30,3 +30,9 @@ body {
     padding: 1rem;
     gap: 1rem;
 }
+
+.nav-links li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
