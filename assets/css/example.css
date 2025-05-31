@@ -104,4 +104,8 @@ body {
         transform: transform 0.3s ease-in;
         z-index: 99;
     }
+
+    .navlinks.active {
+        transform: translateX(0%);
+    }
 }
