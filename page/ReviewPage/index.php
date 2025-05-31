@@ -12,5 +12,7 @@ $gameList = $games;
 ?>
 
 <section class = "game-grid">
-    
+    <?php foreach ($gameList as $game): ?>
+        <?php displayGameCard($game); ?>
+    <?php endforeach; ?>
 </section>
