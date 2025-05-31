@@ -10,3 +10,7 @@ require_once BASE_PATH . '/components/templates/cards/gameCard.component.php';
 
 $gameList = $games;
 ?>
+
+<section class = "game-grid">
+    
+</section>
