@@ -1,0 +1,16 @@
+{
+    "name": "owen/ad-task-2nd-liangco_owen",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Owen\\AdTask2ndLiangcoOwen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Owen Liangco",
+            "email": "owenliangco21@gmail.com"
+        }
+    ],
+    "require": {}
+}
