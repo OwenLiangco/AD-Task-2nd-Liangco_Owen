@@ -40,6 +40,13 @@ body {
     color: #f09f0a;
 }
 
+/* Burger CSS */
+
+.burger {
+    display: none;
+    cursor: pointer;
+}
+
 /* Hero Section CSS */
 
 .hero {
