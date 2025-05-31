@@ -99,28 +99,43 @@ A 2-page Website with a landing page and a review archive page of past game revi
 AD-ProjectName
 └─ assets
 |   └─ css
-|   |   └─ name.css
+|   |   └─ example.css
 |   └─ img
 |   |   └─ BluuCloud.png
+|   |   └─ clearBlueSkies.jpg
 |   └─ js
-|       └─ name.js
+|       └─ example.js
 └─ components
 |   └─ name.component.php
 |   └─ templates
-|      └─ name.component.php
+|      |   └─ cards
+|      |      |
+|      |      └─ gameCard.component.php
+|      └─ reviewPageTemplates
+|      |  |  
+|      |  └─ footReview.component.php
+|      |  └─ headReview.component.php
+|      |  └─ navReview.component.php
+|      └─ footIndex.component.php
+|      └─ headIndex.component.php
+|      └─ navIndex.component.php
 └─ handlers
-|   └─ name.handler.php
-└─ layout
-|   └─ name.layout.php
+|   └─ data.php
+|
 └─ pages
-|  └─ pageName
+|  └─ ReviewPage
 |     └─ assets
 |     |  └─ css
-|     |  |  └─ name.css
+|     |  |  └─ style.css
 |     |  └─ img
-|     |  |  └─ name.jpeg/.jpg/.webp/.png
+|     |  |  └─ AdvanceWars.jpg
+|     |  |  └─ clearBlueSkies.jpg
+|     |  |  └─ KatAM.jpg
+|     |  |  └─ LOZminishCap.jpg
+|     |  |  └─ motherThree.jpg
+|     |  |  └─ PokemonEmeraldBox.jpg
 |     |  └─ js
-|     |     └─ name.js
+|     |     └─ example.js
 |     └─ index.php
 └─ staticData
 |  └─ name.staticdata.php
