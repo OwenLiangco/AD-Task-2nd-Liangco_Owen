@@ -23,3 +23,10 @@ body {
     font-weight: bold;
     margin-left: 1rem;
 }
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+}
