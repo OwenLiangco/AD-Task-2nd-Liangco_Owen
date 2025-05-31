@@ -9,5 +9,10 @@
             <li><a href = "#contact">Contact</a></li>
         </ul>
     </div>
+    <div>
+        <div class = "burger" id = "burger">
+            
+        </div>
+    </div>
     </nav>
 </header>
