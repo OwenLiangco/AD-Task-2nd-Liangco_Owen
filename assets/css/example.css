@@ -7,6 +7,8 @@ body {
     background-attachment: fixed;
 }
 
+/* Nav Bar CSS */
+
 .navbar {
     width: 100%;
     display: flex;
@@ -45,6 +47,14 @@ body {
 .burger {
     display: none;
     cursor: pointer;
+}
+
+.burger div {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 5px;
+    transition: all 0.3s ease;
 }
 
 /* Hero Section CSS */
