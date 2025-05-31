@@ -90,3 +90,18 @@ body {
 .cta-button:hover {
     background-color: #05b488;
 }
+
+@media screen and (max-width: 768px) {
+    .nav-links {
+        position: absolute;
+        right: 0;
+        height: 100vh;
+        top: 10px;
+        background-color: #02afbb;
+        flex-direction: column;
+        width: 200px;
+        align-items: center;
+        transform: transform 0.3s ease-in;
+        z-index: 99;
+    }
+}
