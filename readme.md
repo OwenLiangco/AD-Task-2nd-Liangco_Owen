@@ -22,10 +22,8 @@
 [![wakatime](https://wakatime.com/badge/user/560aac68-1590-4066-a9a0-d2f81918e124/project/eba7b502-e6cf-457f-ac49-918ded1372b5.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
 
 ---
-
 <br />
 <br />
-
 <!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
@@ -57,15 +55,18 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 
-Description of the project in details.
+A 2-page Website with a landing page and a review archive page of past game reviews.
 
 ### Key Components
 
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 
-- Authentication & Authorization
-- CRUD Operations for Invetory System
+- Arrays
+- Fragmentations
+- Pages and Navigation
+- Dictionaries 
+- Functions
 
 ### Technology
 
