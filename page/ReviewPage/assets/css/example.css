@@ -95,3 +95,7 @@ body {
     padding: 0.75rem;
     transition: transform 0.3s ease;
 }
+
+.game-card:hover {
+    transform: translateY(-5px);
+}
