@@ -3,6 +3,19 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #149be9;
+    color: white;
+    position: fixed;
+    top: 0;
+}
+
+/* Hero Section CSS */
+
 .hero {
     height: 100vh;
     padding-top: 70px;
