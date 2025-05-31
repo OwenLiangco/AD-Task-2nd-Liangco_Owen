@@ -30,3 +30,7 @@ body {
     border-radius: 4px;
     font-weight: bold;
 }
+
+.cta-button:hover {
+    background-color: #0fd1a1;
+}
