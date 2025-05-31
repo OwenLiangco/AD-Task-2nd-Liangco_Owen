@@ -7,5 +7,7 @@ require_once BASE_PATH . '/components/templates/footIndex.component.php';
 ?>
 
 <secion class = "hero">
-    
+    <div clas = "hero-content">
+        
+    </div>
 </secion>
