@@ -113,3 +113,14 @@ body {
     margin-top: 0.75rem;
     margin-bottom: 0.25rem;
 }
+
+.game-card-meta {
+    font-size: 0.9rem;
+    color: white;
+    margin-bottom: 0.5rem;
+}
+
+.game-card-review {
+    font-size: 0.95rem;
+    color: white;
+}
