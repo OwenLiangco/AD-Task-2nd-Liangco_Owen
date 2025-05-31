@@ -108,4 +108,9 @@ body {
     .navlinks.active {
         transform: translateX(0%);
     }
+
+    .burger {
+        display: block;
+        z-index: 100;
+    }
 }
