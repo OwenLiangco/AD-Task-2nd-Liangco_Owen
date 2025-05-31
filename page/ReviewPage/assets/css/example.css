@@ -53,3 +53,24 @@ body {
     margin: 5px;
     transition: all 0.3s ease;
 }
+
+@media screen and (max-width: 768px) {
+    .nav-links {
+        position: absolute;
+        right: 0;
+        height: 100vh;
+        top: 10px;
+        background-color: #02afbb;
+        flex-direction: column;
+        width: 200px;
+        align-items: center;
+        transform: translateX(100%);
+        transition: transform 0.3s ease-in;
+        z-index: 99;
+    }
+    
+    .nav-links.active {
+        transform: translateX(0%);
+    }
+
+}
